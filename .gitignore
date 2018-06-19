@@ -10,7 +10,7 @@ wp-content/uploads/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
-
+LOGAcesso.txt
 
 /.htaccess
 /license.txt
@@ -18,3 +18,4 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+/.metadata/
